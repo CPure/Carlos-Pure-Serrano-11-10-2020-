@@ -1,0 +1,11 @@
+D:\PURE\Bertoni\Bertoni\DAO\bin\Debug\DAO.dll
+D:\PURE\Bertoni\Bertoni\DAO\bin\Debug\DAO.pdb
+D:\PURE\Bertoni\Bertoni\DAO\bin\Debug\DTO.dll
+D:\PURE\Bertoni\Bertoni\DAO\bin\Debug\Newtonsoft.Json.dll
+D:\PURE\Bertoni\Bertoni\DAO\bin\Debug\DTO.pdb
+D:\PURE\Bertoni\Bertoni\DAO\bin\Debug\Newtonsoft.Json.xml
+D:\PURE\Bertoni\Bertoni\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\PURE\Bertoni\Bertoni\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\PURE\Bertoni\Bertoni\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\PURE\Bertoni\Bertoni\DAO\obj\Debug\DAO.dll
+D:\PURE\Bertoni\Bertoni\DAO\obj\Debug\DAO.pdb
